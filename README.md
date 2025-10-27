@@ -4,6 +4,7 @@
 This project demonstrates version control best practices using Git.
 It includes branching, commits, pull requests, and tagging.
 
-## Dev Branch Work
-This branch contains development updates and testing changes.
-
+## Features
+- Git branching and merging
+- Pull requests and tagging
+- Workflow practice
